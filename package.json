@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "aws-sdk": "2.176.0",
-    "slappforge-sdk-aws": "0.0.4"
+    "slappforge-sdk-aws": "0.0.4",
+    "@slappforge/slappforge-sdk": "0.0.3"
   }
 }
