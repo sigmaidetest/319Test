@@ -17,7 +17,7 @@ exports.handler = function (event, context, callback) {
                 receivedMessages.forEach(message => {
                     console.log(message);
                 });
-                callback(null, 'Message processing finished');
+                callback(null, 'Message processing finished!');
             } else {
                 console.log('No messages to process');
                 callback(null, 'No messages to process');
