@@ -244,13 +244,13 @@
     "projectVersion": "1.0.0",
     "projectRegion": "us-east-1",
     "platform": "AWS",
-    "lastSave": 1539890314357
+    "lastSave": 1540072965156
   },
   "VCS_STATE": {
     "provider": "GitHub",
     "repo": {
-      "name": "319Test",
-      "url": "https://github.com/sigmaidetest/319Test"
+      "url": "https://github.com/sigmaidetest/319Test",
+      "name": "319Test"
     }
   }
 }
