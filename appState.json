@@ -59,10 +59,9 @@
     },
     "rootNode": "13534764-9896-45e8-9f07-07113fe6e949",
     "openFiles": [
-      "ee7ab2e0-dc89-4dea-a36d-0233ecde1396",
-      "429a31e7-8ffe-4ecd-81f2-eb3f9c150cc6"
+      "ee7ab2e0-dc89-4dea-a36d-0233ecde1396"
     ],
-    "currentFileId": "429a31e7-8ffe-4ecd-81f2-eb3f9c150cc6",
+    "currentFileId": "ee7ab2e0-dc89-4dea-a36d-0233ecde1396",
     "resources": {
       "apigusEast1319Apitestget": {
         "name": "apigusEast1319Apitestget",
@@ -260,7 +259,7 @@
     "projectVersion": "1.0.0",
     "projectRegion": "us-east-1",
     "platform": "AWS",
-    "lastSave": 1540455832097
+    "lastSave": 1540461703124
   },
   "VCS_STATE": {
     "provider": "GitHub",
