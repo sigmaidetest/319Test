@@ -8,7 +8,8 @@
         "type": "DIRECTORY",
         "isDirectory": true,
         "children": [
-          "ee7ab2e0-dc89-4dea-a36d-0233ecde1396"
+          "ee7ab2e0-dc89-4dea-a36d-0233ecde1396",
+          "429a31e7-8ffe-4ecd-81f2-eb3f9c150cc6"
         ],
         "isRemovable": false,
         "filePath": "319Test"
@@ -42,13 +43,26 @@
             "event": "{\n    \"key1\": \"value1\",\n    \"key2\": \"value2\",\n    \"key3\": \"value3\"\n}"
           }
         }
+      },
+      "429a31e7-8ffe-4ecd-81f2-eb3f9c150cc6": {
+        "id": "429a31e7-8ffe-4ecd-81f2-eb3f9c150cc6",
+        "parent": "13534764-9896-45e8-9f07-07113fe6e949",
+        "name": "jsfile.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "319Test/jsfile.js",
+        "code": "",
+        "triggers": []
       }
     },
     "rootNode": "13534764-9896-45e8-9f07-07113fe6e949",
     "openFiles": [
-      "ee7ab2e0-dc89-4dea-a36d-0233ecde1396"
+      "ee7ab2e0-dc89-4dea-a36d-0233ecde1396",
+      "429a31e7-8ffe-4ecd-81f2-eb3f9c150cc6"
     ],
-    "currentFileId": "ee7ab2e0-dc89-4dea-a36d-0233ecde1396",
+    "currentFileId": "429a31e7-8ffe-4ecd-81f2-eb3f9c150cc6",
     "resources": {
       "apigusEast1319Apitestget": {
         "name": "apigusEast1319Apitestget",
@@ -236,7 +250,9 @@
     },
     "lambdaId": "ee7ab2e0-dc89-4dea-a36d-0233ecde1396",
     "additionalFiles": [],
-    "deletedFiles": []
+    "deletedFiles": [
+      "319Test/js-file.js"
+    ]
   },
   "PROJECT_META": {
     "projectName": "319Test",
@@ -244,13 +260,13 @@
     "projectVersion": "1.0.0",
     "projectRegion": "us-east-1",
     "platform": "AWS",
-    "lastSave": 1540114885869
+    "lastSave": 1540455832097
   },
   "VCS_STATE": {
     "provider": "GitHub",
     "repo": {
-      "url": "https://github.com/sigmaidetest/319Test",
-      "name": "319Test"
+      "name": "319Test",
+      "url": "https://github.com/sigmaidetest/319Test"
     }
   }
 }
