@@ -250,7 +250,8 @@
     "lambdaId": "ee7ab2e0-dc89-4dea-a36d-0233ecde1396",
     "additionalFiles": [],
     "deletedFiles": [
-      "319Test/js-file.js"
+      "319Test/js-file.js",
+      "319Test/thejs.js"
     ]
   },
   "PROJECT_META": {
@@ -259,7 +260,7 @@
     "projectVersion": "1.0.0",
     "projectRegion": "us-east-1",
     "platform": "AWS",
-    "lastSave": 1540480910267
+    "lastSave": 1540532256081
   },
   "VCS_STATE": {
     "provider": "GitHub",
