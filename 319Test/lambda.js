@@ -19,7 +19,7 @@ exports.handler = function (event, context, callback) {
                 });
                 callback(null, 'Message processing finished!');
             } else {
-                console.log('No messages to process');
+                console.log('No messages to process!');
                 callback(null, 'No messages to process');
             }
         })
